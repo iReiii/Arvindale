@@ -1,2 +1,2 @@
-# Arvindale-
+# Arvindale
 My Project Greenfoot Game
