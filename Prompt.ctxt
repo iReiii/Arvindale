@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Prompt
+comment1.params=
+comment1.target=Prompt()
+comment2.params=
+comment2.target=void\ updatePrompt()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=visible
+comment4.target=void\ setVisible(boolean)
+numComments=5

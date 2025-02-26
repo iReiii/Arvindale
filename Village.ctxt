@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Village
+comment0.text=\r\n\ Village\ is\ the\ world\ where\ MC\ will\ be\ spawned.\r\n
+comment1.params=spawnX\ spawnY
+comment1.target=Village(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Village.\r\n\ This\ constructor\ allows\ specifying\ the\ MC's\ spawn\ location.\r\n\ \r\n\ @param\ spawnX\ The\ x-coordinate\ where\ MC\ will\ spawn.\r\n\ @param\ spawnY\ The\ y-coordinate\ where\ MC\ will\ spawn.\r\n
+comment2.params=
+comment2.target=Village()
+comment2.text=\r\n\ Default\ constructor\ for\ the\ Village\ world.\r\n\ Spawns\ MC\ at\ the\ bottom-right\ corner.\r\n
+comment3.params=
+comment3.target=void\ goToOtherWorld()
+comment3.text=\r\n\ This\ method\ is\ called\ by\ the\ MC\ class\ when\ the\ teleport\ condition\ is\ met.\r\n\ Transitions\ to\ AnotherWorld2.\r\n
+numComments=4
